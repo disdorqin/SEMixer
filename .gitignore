@@ -1,0 +1,11 @@
+dataset/solar_AL.txt
+*.txt
+.venv/
+LongTermTSF_SEMixer/
+repo/LongTermTSF_SEMixer/
+repo/dataset/datasets.zip
+*.pth
+__pycache__/
+*.pyc
+repo/**/__pycache__/
+repo/**/*.pyc

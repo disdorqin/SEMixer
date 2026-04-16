@@ -1,0 +1,6 @@
+{
+    "kimi.yoloMode": true,
+    "kimi.editorContext": "onConversationStart",
+    "kimi.enableNewConversationShortcut": true,
+    "editor.defaultFormatter": null
+}
